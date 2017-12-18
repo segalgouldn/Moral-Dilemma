@@ -1,1 +1,1 @@
-print("I demand human rights.")
+# print("I demand human rights.")
